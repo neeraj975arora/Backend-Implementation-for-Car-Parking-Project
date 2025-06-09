@@ -1,7 +1,5 @@
 # Backend-Implementation-for-Car-Parking-Project   
   
-  
-
 """
 # 📄 Test Plan: Flask Parking System API
 
